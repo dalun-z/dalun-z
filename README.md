@@ -1,12 +1,5 @@
 # About Me
 
-- 👋 Hi, My name is Dalun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My name is Dalun, currently senior year in CS major.
 
-<!---
-dalun-z/dalun-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Created this place to share all the things I have learned so far! 
